@@ -1,2 +1,2 @@
 # ibex
-model-based for identifying online behaviors
+model for identifying online behaviors
